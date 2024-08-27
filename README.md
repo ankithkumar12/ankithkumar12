@@ -1,7 +1,7 @@
 <img align="right" margin = 500px  alt="Coding" width="350" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <h1 align="center">Hi 👋, I'm AnkithKumar</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<h3 align="center">Developer from India</h3>
 
 
 
